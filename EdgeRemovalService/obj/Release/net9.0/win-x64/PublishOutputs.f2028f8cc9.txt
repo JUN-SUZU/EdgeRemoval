@@ -1,0 +1,4 @@
+C:\task\EdgeRemoval\publish\appsettings.Development.json
+C:\task\EdgeRemoval\publish\appsettings.json
+C:\task\EdgeRemoval\publish\EdgeRemovalService.pdb
+C:\task\EdgeRemoval\publish\EdgeRemovalService.exe
